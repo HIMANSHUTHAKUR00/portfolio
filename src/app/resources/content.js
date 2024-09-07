@@ -9,6 +9,7 @@ const person = {
     role:      'Web Developer',
     avatar:    '/images/avatar.jpg',
     location:  'Asia/Kolkata',
+    languages: ['English', 'Hindi']
 }
 
 const newsletter = {
