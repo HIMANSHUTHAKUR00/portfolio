@@ -28,7 +28,7 @@ const social = [
     },
     {
         name: 'Instagram',
-        icon: 'Instagram',
+        icon: 'instagram',
         link: 'https://www.linkedin.com/company/once-ui/',
     },
     {
