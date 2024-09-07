@@ -126,7 +126,20 @@ const about = {
             {
                 title: 'HTML5',
                 description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
-                
+                 images: [
+                    {
+                        src: '/images/projects/project-01/cover-02.jpg',
+                        alt: 'Project image',
+                        width: 16,
+                        height: 9
+                    },
+                    {
+                        src: '/images/projects/project-01/cover-03.jpg',
+                        alt: 'Project image',
+                        width: 16,
+                        height: 9
+                    },
+                ]
             },
             {
                 title: 'Next.js',
