@@ -111,7 +111,7 @@ const about = {
         institutions: [
             {
                 name: 'Accurate Institute of Management & Technology',
-                description: <>Studying Computer Science Engineering.</>,
+                description: <>BTech in Computer Science Engineering.</>,
             },
             {
                 name: 'Integrated Institute of Technology',
