@@ -29,7 +29,7 @@ const social = [
     {
         name: 'Instagram',
         icon: 'instagram',
-        link: 'https://www.linkedin.com/company/once-ui/',
+        link: 'https://www.instagram.com/__him.anshu_/',
     },
     {
         name: 'X',
