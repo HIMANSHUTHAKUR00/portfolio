@@ -27,8 +27,8 @@ const social = [
         link: 'https://github.com/once-ui-system/nextjs-starter',
     },
     {
-        name: 'LinkedIn',
-        icon: 'linkedin',
+        name: 'Instagram',
+        icon: 'Instagram',
         link: 'https://www.linkedin.com/company/once-ui/',
     },
     {
@@ -39,7 +39,7 @@ const social = [
     {
         name: 'Email',
         icon: 'email',
-        link: 'mailto:example@gmail.com',
+        link: 'mailto:himanshuthakur.er@gmail.com',
     },
 ]
 
