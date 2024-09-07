@@ -110,7 +110,8 @@ const about = {
         title: 'Studies',
         institutions: [
             {
-                name: 'Accurate Institute of Management & Technology',
+                name: 'Accurate Institute of Management
+                    & Technology',
                 description: <>Studying software engineering.</>,
             },
             {
