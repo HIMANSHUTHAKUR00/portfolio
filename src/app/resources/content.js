@@ -6,7 +6,7 @@ const person = {
     get name() {
         return `${this.firstName} ${this.lastName}`;
     },
-    role:      'Web Developer',
+    role:      'Aspiring Software Developer',
     avatar:    '/images/avatar.jpg',
     location:  'Asia/Kolkata',
     languages: []
