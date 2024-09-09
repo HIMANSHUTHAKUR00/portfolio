@@ -45,10 +45,10 @@ const social = [
 
 const home = {
     label: 'Home',
-    title: `${person.name}'s Portfolio`,
+    title: `${person.name}`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Design engineer and builder</>,
-    subline: <>I'm Himanshu, a web developer. I craft intuitive<br/> user experiences. After hours, I build my own projects.</>
+    subline: <>I'm Himanshu, an aspiring software developer.After hours, I build my own projects.</>
 }
 
 const about = {
