@@ -104,14 +104,6 @@ export const Header = () => {
                             <Flex paddingX="2" hide="s">{blog.label}</Flex>
                         </ToggleButton>
                     )}
-                    { routes['/gallery'] && (
-                        <ToggleButton
-                            prefixIcon="gallery"
-                            href="/gallery"
-                            selected={pathname.startsWith('/gallery')}>
-                            <Flex paddingX="2" hide="s">{gallery.label}</Flex>
-                        </ToggleButton>
-                    )}
                 </Flex>
             </Flex>
             <Flex
