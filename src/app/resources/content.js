@@ -54,7 +54,7 @@ const home = {
 const about = {
     label: 'About',
     title: 'About me',
-    description: `Meet ${person.name}, ${person.role} from ${person.location}`,
+    description: `Meet ${person.name}, ${person.role}`,
     tableOfContent: {
         display: true,
         subItems: true
