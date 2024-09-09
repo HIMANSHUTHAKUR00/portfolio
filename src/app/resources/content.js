@@ -147,7 +147,7 @@ const about = {
                 description: <>Built this portfolio with Next.js + Once UI.</>,
                 images: [
                     {
-                        src: '/images/projects/project-01/cover-04.jpg',
+                        src: '/images/projects/project-01/portfolio.jpg',
                         alt: 'Project image',
                         width: 16,
                         height: 9
