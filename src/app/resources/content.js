@@ -125,7 +125,7 @@ const about = {
         title: 'Technical skills',
         skills: [
             {
-                title: 'HTML    CSS     JavaScript     PHP',
+                title: 'HTML CSS JavaScript PHP',
                 description: <>Able to prototype in Bootstrap with JavaScript & used PHP for sending data.</>,
                  images: [
                     {
