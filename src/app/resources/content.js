@@ -69,7 +69,7 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>Hello! I’m Himanshu, a passionate and driven software developer with a recent B.Tech in Computer Science Engineering from Accurate Institute of Technology. I’ve been honing my skills in C, JAVA, JavaScript, MongoDb, NextJs, ExpressJs and have completed projects that have given me hands-on experience in web development.
+        description: <>Hello! I’m Himanshu, a passionate and driven software developer with a recent B.Tech in Computer Science Engineering from Accurate Institute of Technology. I’ve been honing my skills in C, JAVA, JavaScript, HTML5, CSS3, MongoDb, NextJs, ExpressJs and have completed projects that have given me hands-on experience in web development.
         I’m particularly interested in building innovative web applications, solving complex problems with code, or developing user-friendly interfaces. My goal is to contribute to a dynamic team where I can continue to grow and make an impact by leveraging my analytical abilities.</>
     },
     work: {
