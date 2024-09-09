@@ -153,6 +153,10 @@ const about = {
                         height: 9
                     },
                 ]
+            },
+            Curriculum Vitae: {
+                display : true
+                    
             }
         ]
     }
