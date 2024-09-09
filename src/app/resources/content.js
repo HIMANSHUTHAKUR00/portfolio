@@ -59,6 +59,9 @@ const about = {
         display: true,
         subItems: true
     },
+    location: {
+        display: false
+    },
     avatar: {
         display: true
     },
