@@ -125,8 +125,8 @@ const about = {
         title: 'Technical skills',
         skills: [
             {
-                title: 'HTML5',
-                description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
+                title: 'HTML', 'CSS', 'JavaScript', PHP,
+                description: <>Able to prototype in Bootsrap with JavaScript & used PHP for sending data.</>,
                  images: [
                     {
                         src: '/images/projects/project-01/cover-02.jpg',
