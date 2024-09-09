@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 		title: `${person.firstName}`,
 		description: 'Portfolio website showcasing my work.',
 		url: baseURL,
-		siteName: `${person.firstName}'s Portfolio`,
+		siteName: `${person.firstName}`,
 		locale: 'en_US',
 		type: 'website',
 	},
