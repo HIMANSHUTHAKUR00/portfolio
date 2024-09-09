@@ -143,8 +143,8 @@ const about = {
                 ]
             },
             {
-                title: 'Next.js',
-                description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
+                title: 'Once UI Next.js',
+                description: <>Built this portfolio with Next.js + Once UI.</>,
                 images: [
                     {
                         src: '/images/projects/project-01/cover-04.jpg',
