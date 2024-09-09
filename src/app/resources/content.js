@@ -9,6 +9,7 @@ const person = {
     role:      'Aspiring Software Developer',
     avatar:    '/images/avatar.jpg',
     location:  'Asia/Kolkata',
+    display: false,
     languages: []
 }
 
