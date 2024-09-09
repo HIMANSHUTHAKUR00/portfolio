@@ -126,7 +126,7 @@ const about = {
         skills: [
             {
                 title: 'HTML CSS JavaScript PHP',
-                description: <>Able to prototype in Bootsrap with JavaScript & used PHP for sending data.</>,
+                description: <>Able to prototype in Bootstrap with JavaScript & used PHP for sending data.</>,
                  images: [
                     {
                         src: '/images/projects/project-01/cover-02.jpg',
