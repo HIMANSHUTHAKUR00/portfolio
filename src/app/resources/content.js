@@ -88,8 +88,8 @@ const about = {
                       {
                         src: '/images/projects/project-01/Internship certificate.jpg',
                         alt: 'Internship Certificate',
-                        width: 16,
-                        height: 9
+                        width: 12,
+                        height: 15
                     }
                 ]
             },
