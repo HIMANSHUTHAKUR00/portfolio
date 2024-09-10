@@ -36,11 +36,7 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 
 ## **Once UI**
 - All tokens, components & features of [Once UI](https://once-ui.com) (v0.3.1)
-
-## **SEO**
-- Automatic open-graph and X image generation with next/og
-- Automatic schema and metadata generation based on the content file
-
+- 
 ## **Design**
 - Responsive layout optimized for all screen sizes
 - Timeless design without heavy animations and motion
@@ -53,7 +49,6 @@ You try pre-built designs by changing the imports for the config and content in 
 - Render sections conditionally based on the content file
 - Enable or disable pages for blog, work, gallery and about / CV
 - Generate and display social links automatically
-- Set up password protection for URLs
 
 # **Authors**
 
