@@ -85,6 +85,12 @@ const about = {
                     <>I developed my skills in web designing & worked upon some of the projects to enhance those skills. </>
                 ],
                 images: [
+                      {
+                        src: '/images/projects/project-01/cover-01.jpg',
+                        alt: 'Internship Certificate',
+                        width: 16,
+                        height: 9
+                    }
                 ]
             },
         
