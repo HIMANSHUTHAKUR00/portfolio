@@ -86,7 +86,7 @@ const about = {
                 ],
                 images: [
                       {
-                        src: '/images/projects/project-01/cover-01.jpg',
+                        src: '/images/projects/project-01/Internship certificate.jpg',
                         alt: 'Internship Certificate',
                         width: 16,
                         height: 9
