@@ -64,7 +64,7 @@ const about = {
     },
     calendar: {
         display: true,
-        link: 'https://cal.com'
+        link: 'mailto:himanshuthakur.er@gmail.com'
     },
     intro: {
         display: true,
