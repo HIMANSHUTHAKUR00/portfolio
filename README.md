@@ -54,7 +54,7 @@ You try pre-built designs by changing the imports for the config and content in 
 
 Connect with me.
 
-Himanshu Thakur: [Gmail](https://mail.google.com/mail/u/0/?hl=en_GB#inbox?compose=CllgCHrgClhZvKnfkcxPmxLVGGdmQztChnFxVFKpGJdbmHBVMSglrFjZpbMmsZRBbhvkdwWphJq), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
+Himanshu Thakur: [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkVNRHzJHxpFncwblxzNqMMnLLzVDcBxzmcVkXnZWpXxchLgNQxQJzhqSpvppHTcBHpjGc)
 
 
 # **Deploy with Vercel**
