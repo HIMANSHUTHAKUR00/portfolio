@@ -74,23 +74,17 @@ const about = {
     },
     work: {
         display: true, // set to false to hide this section
-        title: 'Work Experience',
+        title: 'Internship',
         experiences: [
             {
                 company: 'Corewave',
                 timeframe: '2022',
                 role: 'Web Designing',
                 achievements: [
-                    <>Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user engagement and 30% faster load times.</>,
-                    <>Spearheaded the integration of AI tools into design workflows, enabling designers to iterate 50% faster.</>
+                    <>I worked as an intern in this company. The internship was a duration of 3 months(feb'22 - April'22).</>,
+                    <>I developed my skills in web designing & worked upon some of the projects to enhance those skills. </>
                 ],
-                images: [ // optional: leave the array empty if you don't want to display images
-                    {
-                        src: '/images/projects/project-01/cover-01.jpg',
-                        alt: 'Once UI Project',
-                        width: 16,
-                        height: 9
-                    }
+                images: [
                 ]
             },
         
