@@ -56,4 +56,4 @@ Connect with me on email.
 
 
 # **Deploy with Vercel**
-[![Deploy with Vercel](https://vercel.com/button)][https://vercel.com/new/himanshuthakur00s-projects/import?s=https%3A%2F%2Fgithub.com%2FHIMANSHUTHAKUR00%2Fportfolio&hasTrialAvailable=0&showOptionalTeamCreation=false&project-name=portfolio&framework=nextjs&totalProjects=1&remainingProjects=1]
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/himanshuthakur00s-projects/import?s=https%3A%2F%2Fgithub.com%2FHIMANSHUTHAKUR00%2Fportfolio&hasTrialAvailable=0&showOptionalTeamCreation=false&project-name=portfolio&framework=nextjs&totalProjects=1&remainingProjects=1)
