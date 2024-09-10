@@ -36,7 +36,7 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 
 ## **Once UI**
 - All tokens, components & features of [Once UI](https://once-ui.com) (v0.3.1)
-- 
+  
 ## **Design**
 - Responsive layout optimized for all screen sizes
 - Timeless design without heavy animations and motion
