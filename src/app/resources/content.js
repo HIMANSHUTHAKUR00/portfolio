@@ -73,7 +73,7 @@ const about = {
         I’m particularly interested in building innovative web applications, solving complex problems with code, or developing user-friendly interfaces. My goal is to contribute to a dynamic team where I can continue to grow and make an impact by leveraging my analytical abilities.</>
     },
     work: {
-        display: false, // set to false to hide this section
+        display: true, // set to false to hide this section
         title: 'Work Experience',
         experiences: [
             {
