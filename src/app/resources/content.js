@@ -154,9 +154,9 @@ const about = {
                     },
                 ]
             },
-            Curriculum Vitae: {
+            cv: {
                 display : true,
-                title : 'Himanshu's CV',
+                title : 'Himanshu CV',
                     
             }
         ]
