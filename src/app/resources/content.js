@@ -153,11 +153,6 @@ const about = {
                         height: 9
                     },
                 ]
-            },
-            cv: {
-                display : true,
-                title : 'Himanshu CV',
-                    
             }
         ]
     }
