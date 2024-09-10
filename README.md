@@ -52,7 +52,8 @@ You try pre-built designs by changing the imports for the config and content in 
 
 # **Authors**
 
-Connect with me on email.
+Connect with me.
+Himanshu Thakur: [Gmail](https://mail.google.com/mail/u/0/?hl=en_GB#inbox?compose=new), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
 
 
 # **Deploy with Vercel**
