@@ -8,7 +8,7 @@ const person = {
     },
     role:      'Aspiring Web Developer',
     avatar:    '/images/avatar.jpg',
-    location:  'Asia/Delhi',
+    location:  'Asia/Kolkata',
     languages: []
 }
 
