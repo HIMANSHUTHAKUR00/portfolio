@@ -6,9 +6,9 @@ const person = {
     get name() {
         return `${this.firstName} ${this.lastName}`;
     },
-    role:      'Aspiring Software Developer',
+    role:      'Aspiring Web Developer',
     avatar:    '/images/avatar.jpg',
-    location:  'Asia/Kolkata',
+    location:  'Asia/Delhi',
     languages: []
 }
 
@@ -48,7 +48,7 @@ const home = {
     title: `${person.name}`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <> Aspiring Web Designer and Developer</>,
-    subline: <>I'm Himanshu, an aspiring software developer.After hours, I build my own projects.</>
+    subline: <> I'm Himanshu, an aspiring Web developer.After hours, I build my own projects.</>
 }
 
 const about = {
